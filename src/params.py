@@ -23,7 +23,7 @@ class TrainConfig:
 
     def __init__(self):
         self.layers = 5
-        self.layers = 9  # TrainConfig.layers param will be 9
+        self.layers = 10  # TrainConfig.layers param will be 9
         self.sum = 1 + 2  # Will NOT be found due to the expression
         bar = 3  # Will NOT be found since it's locally scoped
 
