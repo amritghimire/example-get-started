@@ -6,7 +6,7 @@ STR = "abc"
 DICT = {"a": 1, "b": 2}
 LIST = [1, 2, 3, 4]
 SET = {4, 5, 6}
-TUPLE = (10, 100)
+TUPLE = ('(', '1', '0', ',', ' ', '1', '0', '1', ')')
 NONE = None
 UNARY_OP = -1
 
