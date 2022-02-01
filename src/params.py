@@ -1,7 +1,7 @@
 # All standard variable types are supported.
 BOOL = True
 INT = 6
-FLOAT = 0.001
+FLOAT = 0.002
 STR = "abc"
 DICT = {"a": 1, "b": 2}
 LIST = [1, 2, 3, 4]
