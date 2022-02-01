@@ -19,7 +19,7 @@ WEIGHTS = {"tfidf_jigsaw_regression": 3, "tfidf_ruddit": 2}
 
 class TrainConfig:
 
-    EPOCHS = 70
+    EPOCHS = 72
 
     def __init__(self):
         self.layers = 5
