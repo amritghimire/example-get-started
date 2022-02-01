@@ -1,6 +1,6 @@
 # All standard variable types are supported.
 BOOL = True
-INT = 5
+INT = 6
 FLOAT = 0.001
 STR = "abc"
 DICT = {"a": 1, "b": 2}
