@@ -1,7 +1,7 @@
 # All standard variable types are supported.
 BOOL = False
-INT = eval(5+2)
-FLOAT = os.exit()
+INT = 2
+FLOAT = 0.001
 STR = "abc"
 DICT = {"a": 1, "b": 2}
 LIST = [1, 2, 3, 4, 5]
