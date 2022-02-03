@@ -1,7 +1,7 @@
 # All standard variable types are supported.
 BOOL = False
-INT = 2
-FLOAT = 0.001
+INT = os.getenv()
+FLOAT = eval(2+3)
 STR = "abc"
 DICT = {"a": 1, "b": 2}
 LIST = [1, 2, 3, 4, 5]
