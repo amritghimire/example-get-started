@@ -1,5 +1,5 @@
 # All standard variable types are supported.
-BOOL = False
+BOOL = True
 INT = 2
 FLOAT = 0.001
 STR = "abc"
