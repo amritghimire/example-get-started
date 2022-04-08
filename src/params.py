@@ -1,11 +1,11 @@
 # All standard variable types are supported.
-BOOL = True
+BOOL = False
 INT = 2
-FLOAT = 0.001
+FLOAT = 0.002
 STR = "abc"
 DICT = {"a": 1, "b": 2}
-LIST = [1, 2, 3, 4, 5]
-SET = {4, 5, 6, 7, 8}
+LIST = [1, 2, 3, 4, 5, 6]
+SET = {4, 5, 6, 7, 8, 9}
 TUPLE = (10, 102)
 NONE = 1
 UNARY_OP = -3
